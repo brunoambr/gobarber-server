@@ -8,3 +8,4 @@ temp/
 .env
 coverage
 ormconfig.json
+notes.md
