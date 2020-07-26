@@ -1,0 +1,4 @@
+Para executar as migrations, yarn typeorm migration:run
+
+Só se altera migrations se ela não foi enviada ainda para o git/github! (yarn typeorm migration:revert)
+Caso contrário, crie uma migration nova para corrigir o que foi feito na anterior.

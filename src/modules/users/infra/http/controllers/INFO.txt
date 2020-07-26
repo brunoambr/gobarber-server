@@ -1,0 +1,8 @@
+Os controllers só podem ter no máximo 5 métodos, que são:
+index - GetAll
+show - GetById
+create - Post
+update - Put
+delete - Delete
+
+Obs.: Caso você precise de mais de 5 métodos, talvez seja a hora de criar um novo controller ;)
